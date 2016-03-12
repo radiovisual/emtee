@@ -1,6 +1,6 @@
 {
   "name": "emtee",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "A super-small echo module → returning values like nobody's business.",
   "license": "MIT",
   "repository": "radiovisual/emtee",

@@ -26,11 +26,12 @@ Simply returns whatever input it receives.
 
 ## Note
 
-This module has 2 deliberate releases so you can test npm versions:
+This module has 3 deliberate releases so you can test npm versions:
 
 ```
 npm install emtee@1.0.0
 npm install emtee@2.0.0
+npm install emtee@3.0.0
 ```
 
 ## License
