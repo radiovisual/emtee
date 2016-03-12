@@ -1,1 +1,1 @@
-module.exports=function(o){return o};
+module.exports=function(a){return a};

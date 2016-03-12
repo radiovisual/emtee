@@ -24,6 +24,15 @@ module.exports=function(o){return o};
 
 Simply returns whatever input it receives.
 
+## Note
+
+This module has 2 deliberate releases so you can test npm versions:
+
+```
+npm install emtee@1.0.0
+npm install emtee@2.0.0
+```
+
 ## License
 
 MIT © [Michael Wuergler](http://numetriclabs.com)
