@@ -1,0 +1,28 @@
+{
+  "name": "emtee",
+  "version": "1.0.0",
+  "description": "A super-small echo module → returning values like nobody's business.",
+  "license": "MIT",
+  "repository": "radiovisual/emtee",
+  "author": {
+    "name": "Michael Wuergler",
+    "email": "wuergler@gmail.com",
+    "url": "numetriclabs.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "testing",
+    "for",
+    "useful",
+    "module",
+    "empty"
+  ]
+}
